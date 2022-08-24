@@ -1,0 +1,5 @@
+package br.com.devantunes.barbeariaws.entities;
+
+public class User {
+
+}
